@@ -100,3 +100,21 @@ Actions only describe what happened, not how the application's state changes.
 A reducer is a function that accepts the current state and action, and returns a new state with the action performed.
 
 combineReducers() utility can be used to combine all the reducers in the app into a single index reducer which makes maintainability much easier.
+
+# React-Redux Configuration
+
+Install React Redux package:
+
+`npm install --save redux react-redux`
+
+When working with Redux, you will need three main things:
+
+Make a folder in src folder and name it 'redux'
+
+`mkdir src\redux`
+
+Now make two folder in redux folder and name it 'actions' and reducers.
+
+`mkdir src\redux\actions`
+
+`mkdir src\redux\reducers`
