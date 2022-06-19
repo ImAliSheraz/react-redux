@@ -101,7 +101,7 @@ A reducer is a function that accepts the current state and action, and returns a
 
 combineReducers() utility can be used to combine all the reducers in the app into a single index reducer which makes maintainability much easier.
 
-# React-Redux Configuration
+# React-Redux New Project Guide
 
 Install React Redux package:
 
