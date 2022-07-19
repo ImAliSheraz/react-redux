@@ -118,3 +118,9 @@ Now make two folder in redux folder and name it 'actions' and reducers.
 `mkdir src\redux\actions`
 
 `mkdir src\redux\reducers`
+
+
+## Show Your Support
+
+- [Recommend Me On LinkedIn](https://www.linkedin.com/in/imalisheraz/) - I will realy Appriciate this
+- Don't forget to star ⭐ the repo 😉, it's FREE.
